@@ -7,13 +7,10 @@ namespace HelloWorld
            {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 10;
-            Console.WriteLine(a + b);
-
-            string s1 = "5";
-            string s2 = "10";
-            Console.WriteLine(s1 + s2);
+            Console.WriteLine("Привет! Как тебя зовут?");
+            string name = Console.ReadLine();
+            Console.WriteLine("Привет, " + name);
+            Console.WriteLine("Очень приятно," + name + "Меня зовут Олег!")
 
 
         }
