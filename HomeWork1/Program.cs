@@ -43,8 +43,8 @@ namespace HelloWorld
            
 
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number / 1000);
-            
+            Console.WriteLine(number * number * number * number * number * number);
+           
             
             
 
