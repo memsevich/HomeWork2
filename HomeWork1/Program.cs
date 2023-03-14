@@ -43,7 +43,9 @@ namespace HelloWorld
            
 
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number * number * number * number * number * number);
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            
+            Console.WriteLine((number2)/(number));
            
             
             
