@@ -25,14 +25,16 @@ namespace HelloWorld
             ///Console.WriteLine(a - b);
             ///Console.WriteLine(a * b);
 
-            Console.WriteLine(12 / 3);
-            Console.WriteLine(12 / 4);
-            Console.WriteLine(12 / 5);
-            Console.WriteLine(12 / 6);
-            Console.WriteLine(12 / 7);
-            Console.WriteLine(12 / 12);
-            Console.WriteLine(12 / 14);
+            ///* Console.WriteLine(12 / 3);
+            ///Console.WriteLine(12 / 4);
+            ///Console.WriteLine(12 / 5);
+            ///Console.WriteLine(12 / 6);
+            ///Console.WriteLine(12 / 7);
+            ///Console.WriteLine(12 / 12);
+            ///Console.WriteLine(12 / 14);
 
+            Console.WriteLine(7251439 % 12);
+            
 
         }
     }
