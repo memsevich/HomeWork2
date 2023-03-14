@@ -33,7 +33,10 @@ namespace HelloWorld
             ///Console.WriteLine(12 / 12);
             ///Console.WriteLine(12 / 14);
 
-            Console.WriteLine(7251439 % 12);
+            ///Console.WriteLine(7251439 % 12 );
+            int num1 = 2 + 2 * 2;
+            Console.WriteLine(num1);
+
             
 
         }
