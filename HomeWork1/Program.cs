@@ -33,8 +33,24 @@ namespace HelloWorld
             ///Console.WriteLine(12 / 12);
             ///Console.WriteLine(12 / 14);
 
-            Console.WriteLine(7251439 % 12);
+            ///Console.WriteLine(7251439 % 12 );
+<<<<<<< HEAD
+
+            ///int num1 = 2 + 2 * 2;
+            ///Console.WriteLine(num1);
+            ///int num1 = 2 + 2 * 2;
+           /// Console.WriteLine(num1);
+           
+
+            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(number * number);
+
+
+=======
+           
+
             
+>>>>>>> 749804a189d945b2d685d26e0df896a47742ce29
 
         }
     }
